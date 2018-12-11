@@ -13,7 +13,7 @@
 
 [![Build Status](https://travis-ci.org/simeonradivoev/MatterOverdrive.svg?branch=1.8.9)](https://travis-ci.org/simeonradivoev/MatterOverdrive)
 
-## Current Developer: TheCodedOne
+## Current Developer: WorldAutomation.Net
 
 ## Table of Contents
 * [About](#about)
@@ -21,19 +21,10 @@
 * [Contacts](#contacts)
 * [Issues](#issues)
 * [Building](#building)
-* [IMC](#imc)
-* [Donations](#donations)
 
 ## About
 Matter Overdrive is a Minecraft mod inspired by the popular Sci-fi TV series Star Trek. It dwells in the concept of replicating and transforming one type matter into another.
 Although it may seem overpowered, Matter Overdrive takes a more realistic approach and requires the player to build a complex system before even the simplest replication can be achieved.
-
-## Contacts
-* [Simeon Radivoev](simeonradivoev@gmail.com) (DEPRECATED)
-* [Dev_Osmium](mailto:devosmium@gmail.com)
-* [@DevOsmium](https://twitter.com/DevOsmium)
-* [Website](http://devosmium.ddns.net/matteroverdrive/matteroverdrive.html)
-* IRC: **#matteroverdrive** at **irc.esper.net**
 
 ## Features
 * [Matter Scanner](https://mo.simeonradivoev.com/items/matter_scanner/), for scanning matter patterns for replication.
